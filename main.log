@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  6 APR 2018 20:03
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  6 APR 2018 20:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,11 +341,15 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 
 ]
 第 1 章
-) (./main.bbl [4
+[4
+
+]
+第 2 章
+) (./main.bbl [5
 
 ]) 
 AED: lastpage setting LastPage
-[5
+[6
 
 ]
 \tf@thm=\write4
@@ -359,6 +363,6 @@ Here is how much of TeX's memory you used:
  6327 multiletter control sequences out of 15000+600000
  10217 words of font info for 42 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,5n,43p,221b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,5n,43p,221b,196s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (5 pages, 1808 bytes).
+Output written on main.dvi (6 pages, 2056 bytes).
